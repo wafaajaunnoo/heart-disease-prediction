@@ -8,6 +8,6 @@
 2. Predicted probabilities are plotted for both training and test sets to visualize how well the logistic regression model is performing
 
 ## Files
-1. "disease.csv" is the dataset
+1. "disease.csv" is the dataset, which will give you an accuracy of only 0.5333333333333333.  That's because we're training the model on only one (1) feature, a.k.a cholesterol_level. #noobie :)
 2. "disease.py" is the model
-3. "Assets" is the folder containing screenshots of the predicted model
+3. "Assets" is the folder containing screenshots of the bs predicted model
